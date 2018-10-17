@@ -29,8 +29,16 @@
 
 6. What do we mean by 'composition' in reference to object-oriented programming?
 
+*Composition refers to objects that are composed ('has-a' relationships) of other objects*
+
 7. When would you use composition? Provide a simple example in Java.
+
+*If a Car object requires an Engine object, Wheel objects, and Door objects*
 
 8. What is/are the advantage(s) of using composition?
 
+*You get modular code which can be easily manipulated and avoid massive snarlups of multiple inheretence issues*
+
 9. When an object is destroyed, what happens to all the objects it is composed of?
+
+*Those objects are all destroyed too*
