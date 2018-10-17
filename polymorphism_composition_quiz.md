@@ -4,7 +4,7 @@
 
 1. What does the ___word___ 'polymorphism' mean?
 
-## Polymorphism means 'of many shapes/forms'
+__Polymorphism means 'of many shapes/forms'__
 
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
