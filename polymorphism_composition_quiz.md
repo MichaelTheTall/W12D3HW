@@ -23,7 +23,12 @@
 
 5. Give an example of when you could use polymorphism.
 
-*public class Car extends Vehicle implements IDrive*
+*If you have many objects of one archetype, you can create many subclasses which will be able to fit into collections of the archetype class*
+
+*public class Car extends Vehicle*
+*public class Truck extends Vehicle*
+*public class Van extends Vehicle*
+*public class Skateboard extends Vehicle*
 
 # Composition
 
