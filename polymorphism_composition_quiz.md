@@ -42,7 +42,7 @@
 
 8. What is/are the advantage(s) of using composition?
 
-*You get modular code which can be easily manipulated and avoid massive snarlups of multiple inheretence issues*
+*You get modular code which can be easily manipulated and avoid massive snarlups of multiple inheretence issues. It also results in code that adheres to the Single Responsibility principle*
 
 9. When an object is destroyed, what happens to all the objects it is composed of?
 
