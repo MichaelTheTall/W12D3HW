@@ -9,13 +9,13 @@
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
-*In Java, every object is polymorphic, but an example would be a Car class inheriting from a Vehicle class and implementing the Drive interface:*
+*In Java, every object is technically polymorphic, but an example would be a Car class inheriting from a Vehicle class and implementing the Drive interface:*
 
 *public class Car extends Vehicle implements IDrive*
 
 3. What can we use to implement polymorphism in Java?
 
-*Implement more than one 'is-a' relationships on an object*
+*Implement more than one 'is-a' relationships*
 
 4. How many 'forms' can an object take when using polymorphism?
 
